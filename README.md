@@ -287,8 +287,8 @@ This project is not endorsed by or affiliated with `coinhive.com` in any way.
 
 ## Support
 
-This project is configured with a 1% donation. If you wish to disable it, please consider doing a one time donation and
-buy me a beer with [magic internet money](https://i.imgur.com/mScSiOo.jpg):
+This project is configured with a 1% donation. If you wish to disable it, please consider doing a one time donation to
+buy me a snack with:
 
 ```
 BTC: 16ePagGBbHfm2d6esjMXcUBTNgqpnLWNeK
@@ -298,3 +298,5 @@ XMR: 46WNbmwXpYxiBpkbHjAgjC65cyzAxtaaBQjcGpAZquhBKw2r8NtPQniEgMJcwFMCZzSBrEJtmPs
 ```
 
 <3
+
+[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/zpnk/hello-world)
